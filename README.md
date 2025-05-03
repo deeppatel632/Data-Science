@@ -1,4 +1,3 @@
-
 # Data-Science
 
 This repository contains Python notebooks and scripts covering foundational to advanced topics in Data Science. Each file is modular and covers a specific topic with examples, explanations, and code demonstrations.
@@ -20,6 +19,18 @@ This script introduces the basics of NumPy, a core library for numerical computa
 
 Each concept is explained with code examples and output for better understanding.
 
+### 🔹 `AdvancedNum.py`
+This script covers advanced usage of NumPy and includes:
+- Performance comparison: NumPy arrays vs Python lists (speed and memory)
+- Advanced indexing: Normal, Fancy, Boolean
+- Broadcasting: Rules and examples
+- Mathematical operations: sin, sigmoid, MSE, binary cross entropy
+- Handling missing values (np.nan)
+- Plotting: Basic 2D plots for various functions (linear, quadratic, sigmoid, etc.)
+- Meshgrids (foundation for 3D plots and advanced data visualization)
+
+Each topic is annotated with detailed explanations and examples.
+
 ## 📌 Future Files (Planned)
 Additional scripts will be added to cover:
 - Pandas Basics
@@ -31,4 +42,3 @@ Additional scripts will be added to cover:
 Stay tuned and follow the repo for updates!
 
 ---
-✅ **Tip:** Use the Python files as learning notebooks. Try running the code snippets, modify values, and observe the outputs.
